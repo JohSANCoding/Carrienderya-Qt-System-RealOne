@@ -1,0 +1,9 @@
+# ninja log v5
+1	579	7379081251017674	Carrienderya-Qt-System_autogen/timestamp	8cc87267fbb657d9
+1	579	7379081251017674	Carrienderya-Qt-System_autogen/mocs_compilation.cpp	8cc87267fbb657d9
+1	579	7379081251017674	C:/Users/Asus/OneDrive/Desktop/Coding Things Formal/Carrienderya-Qt-System/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Carrienderya-Qt-System_autogen/timestamp	8cc87267fbb657d9
+1	579	7379081251017674	C:/Users/Asus/OneDrive/Desktop/Coding Things Formal/Carrienderya-Qt-System/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Carrienderya-Qt-System_autogen/mocs_compilation.cpp	8cc87267fbb657d9
+580	2208	7379081267782833	CMakeFiles/Carrienderya-Qt-System.dir/Carrienderya-Qt-System_autogen/mocs_compilation.cpp.obj	dda73391534a3f30
+583	2248	7379081268191725	CMakeFiles/Carrienderya-Qt-System.dir/main.cpp.obj	550104d09122644a
+585	2311	7379081268820044	CMakeFiles/Carrienderya-Qt-System.dir/mainwindow.cpp.obj	56cdc117f647b242
+2311	2478	7379081270445706	Carrienderya-Qt-System.exe	2c65ae8c81263e3f
